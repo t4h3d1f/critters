@@ -1,0 +1,10 @@
+C:\Users\thoom\source\repos\Critters\Critters\bin\Debug\Critters.exe.config
+C:\Users\thoom\source\repos\Critters\Critters\bin\Debug\Critters.exe
+C:\Users\thoom\source\repos\Critters\Critters\bin\Debug\Critters.pdb
+C:\Users\thoom\source\repos\Critters\Critters\obj\Debug\Critters.csprojAssemblyReference.cache
+C:\Users\thoom\source\repos\Critters\Critters\obj\Debug\Critters.CritterFrame.resources
+C:\Users\thoom\source\repos\Critters\Critters\obj\Debug\Critters.Properties.Resources.resources
+C:\Users\thoom\source\repos\Critters\Critters\obj\Debug\Critters.csproj.GenerateResource.cache
+C:\Users\thoom\source\repos\Critters\Critters\obj\Debug\Critters.csproj.CoreCompileInputs.cache
+C:\Users\thoom\source\repos\Critters\Critters\obj\Debug\Critters.exe
+C:\Users\thoom\source\repos\Critters\Critters\obj\Debug\Critters.pdb
